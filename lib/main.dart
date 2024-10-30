@@ -21,7 +21,7 @@ class MyApp extends StatelessWidget {
       theme: ThemeData(
           colorScheme: ColorScheme.fromSeed(seedColor: Colors.deepPurple),
           scaffoldBackgroundColor:
-              Colors.grey[300]), // I added background color to match the sample
+              Colors.grey[50]), // I added background color to match the sample
       // Create the routes here
       // 2. Setting the initial route to load the home screen
       initialRoute: '/',
